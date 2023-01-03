@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ![KakaoTalk_20230103_150335618](https://user-images.githubusercontent.com/112525987/210307040-04c8b231-7002-48e4-9258-e74588fc6b0e.gif)
   
+<br>
+  
 </div>
 
 <div align=center><h1>📚 STACKS</h1></div>
@@ -45,7 +47,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+<br>
 
+<div align=center><h1>🌈 Follow Me</h1></div>
+<p align="center">
+  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
+
+<br>
 
 <div align="center">
 
