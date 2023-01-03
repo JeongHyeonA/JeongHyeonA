@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongHyeonA&count_bg=%233DC6BD&title_bg=%2357A0A0&icon=&icon_color=%23E7E7E7&title=%F0%9F%98%8Bhits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+![KakaoTalk_20230103_150335618](https://user-images.githubusercontent.com/112525987/210307040-04c8b231-7002-48e4-9258-e74588fc6b0e.gif)
+  
 </div>
-
-
 
 <div align=center><h1>📚 STACKS</h1></div>
 
