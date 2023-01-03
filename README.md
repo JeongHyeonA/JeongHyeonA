@@ -2,8 +2,6 @@
 
 
 
-
-
 <!--
 **JeongHyeonA/JeongHyeonA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,6 +27,12 @@ Here are some ideas to get you started:
 <br>
   
 </div>
+
+## ✨Work experience✨
+- (2021.3 ~ 2021.8) (주)만도 system2팀 실습생
+- (2022.7 ~ 2023.2) 데이터누리 데이터비즈팀 인턴
+  
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 
