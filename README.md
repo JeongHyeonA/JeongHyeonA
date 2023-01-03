@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 </div>
 
 ## ✨Work experience✨
-- (2017.3 ~ 2017.8) 한라대학교 총대의원회 22대
 - (2021.3 ~ 2021.8) (주)만도 system2팀 실습생
 - (2022.7 ~ 2023.2) 데이터누리 데이터비즈팀 인턴
   
